@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "youtuberImg": "https://i.ytimg.com/vi/x7EWFoRzAkk/maxresdefault.jpg",
+    "youtuberName": "Kyle Cook",
+    "channelName": "Web Dev Simplified",
+    "channelDesc": "Web Dev Simplified is all about teaching web development skills and techniques in an efficient and practical manner. If you are just getting started in web development Web Dev Simplified has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. Web Dev Simplified also deep dives into advanced topics using the latest best practices for you seasoned web developers.",
+    "contentType": "Web-development",
+    "createdDate": "2018-05-24",
+    "subscriber": "672K",
+    "monthlyIncome": 5000
+  },
+  {
+    "id": 2,
+    "youtuberImg": "https://pbs.twimg.com/profile_images/981311875643195393/dS0t6BQ8_400x400.jpg",
+    "youtuberName": "Mosh Hamedani",
+    "channelName": "Programming with Mosh",
+    "channelDesc": "My life’s mission is to help novice and professional software engineers increase their skills, make more money, and ultimately change their lives for the better.",
+    "contentType": "Programming",
+    "createdDate": "2014-10-07",
+    "subscriber": "2.01M",
+    "monthlyIncome": 1000
+  },
+  {
+    "id": 3,
+    "youtuberImg": "https://pbs.twimg.com/profile_images/1310937560517169154/OLzku1DJ_400x400.jpg",
+    "youtuberName": "Clever Programmer",
+    "channelName": "Clever Programmer",
+    "channelDesc": "You can find awesome programming lessons here! Also, expect programming tips and tricks that will take your coding skills to the next level.",
+    "contentType": "Programming tips and tricks",
+    "createdDate": "2016-12-03",
+    "subscriber": "1.01M",
+    "monthlyIncome": 8000
+  },
+  {
+    "id": 4,
+    "youtuberImg": "https://yt3.ggpht.com/FSc40czFm7lZQU4We9NVWWRzeA7ok_FQQ-AMJAP_7tgy-ovAjYcrqHcjOPHpTyxHmeqEF57jAA=s900-c-k-c0x00ffffff-no-rj",
+    "youtuberName": "True Coder",
+    "channelName": "True Coder",
+    "channelDesc": "Here you will find a lot of HTML and CSS tutorials, as well as JavaScript tutorials. My goal is to teach you how to create awesome things and make you creative.",
+    "contentType": "All type programming",
+    "createdDate": "2018-03-16",
+    "subscriber": "64.3K",
+    "monthlyIncome": 1000
+  },
+  {
+    "id": 5,
+    "youtuberImg": "https://pbs.twimg.com/profile_images/1111257701835788290/7U7PLuAK.jpg",
+    "youtuberName": "Kevin Powell ",
+    "channelName": "Kevin Powell ",
+    "channelDesc": "Helping you learn how to make the web, and make it look good while youre at it. With videos every Tuesday and Thursday, Ill be bringing you How Tos and Tutorials, as well as simple tips and tricks, with a big focus on helping people see how wonderful CSS is!",
+    "contentType": "CSS",
+    "createdDate": "2006-03-20",
+    "subscriber": "361K",
+    "monthlyIncome": 6000
+  },
+  {
+    "id": 6,
+    "youtuberImg": "https://pbs.twimg.com/profile_images/856983737426423809/6jebtwP-_400x400.jpg",
+    "youtuberName": "Traversy",
+    "channelName": "Traversy Media ",
+    "channelDesc": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP",
+    "contentType": "web development and programming tutorials",
+    "createdDate": "2009-10-30",
+    "subscriber": "1.64M",
+    "monthlyIncome": 7000
+  },
+  {
+    "id": 7,
+    "youtuberImg": "https://pbs.twimg.com/profile_images/1237741639193571328/LryLEBqW_400x400.jpg",
+    "youtuberName": "Coder Coder",
+    "channelName": "Coder Coder",
+    "channelDesc": "Practical tips for the beginner web developer.",
+    "contentType": "Web development",
+    "createdDate": "2017-12-15",
+    "subscriber": "230K",
+    "monthlyIncome": 6000
+  },
+  {
+    "id": 156946316465134800,
+    "youtuberImg": "https://www.freecodecamp.org/news/content/images/2020/01/freecodecamp.jpeg",
+    "youtuberName": "Jhon Smith",
+    "channelName": "Free Code Camp.org",
+    "channelDesc": "I have always struggled with learning JavaScript. Ive taken many courses but freeCodeCamps course was the one which stuck. Studying JavaScript as well as data structures and algorithms on freeCodeCamp gave me the skills and confidence I needed to land my dream job as a software engineer at Spotify.\"",
+    "contentType": "Web Development",
+    "createdDate": "2015-06-02",
+    "subscriber": "4.26M",
+    "monthlyIncome": 7560
+  },
+  {
+    "id": 1564846613397613600,
+    "youtuberImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPuBowB2rUB97Kvgpxy8hee0X6Too9n1egCQ&usqp=CAU",
+    "youtuberName": "Hasan Mahmud Nayem",
+    "channelName": "Stack Learner",
+    "channelDesc": "Well, having mastered Web Development after facing lots of challenges along the learning journey, and thence having bagged a high-paying Full-Stack Web Development job fresh out of college at Walmart (US $96,100) by showcasing to the recruiters my skills in Web Development and Data Structures & Algorithms by the means of my developed projects, I believe, I should share my learning journey so as to make your experience less troublesome than mine.",
+    "contentType": "Software Engineer",
+    "createdDate": "2016-05-24",
+    "subscriber": "63.1K",
+    "monthlyIncome": 3260
+  },
+  {
+    "id": 1564974654134874000,
+    "youtuberImg": "https://i.ytimg.com/vi/-mJFZp84TIY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDTf1GtV-FgHh66rtcxnUio_uQJCQ",
+    "youtuberName": "Harry Smith",
+    "channelName": "Code With Harry",
+    "channelDesc": "He had reason to be speechless after such a dramatic comeback and reason to be humbled when he was announced as the winner of the Norm Smith Medal as the best player on the field — but his record 40 disposals made it less of a surprise.",
+    "contentType": "Programing",
+    "createdDate": "2017-06-02",
+    "subscriber": "869K",
+    "monthlyIncome": 3950
+  }
+]
