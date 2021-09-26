@@ -108,5 +108,27 @@
     "createdDate": "2017-06-02",
     "subscriber": "869K",
     "monthlyIncome": 3950
+  },
+  {
+    "id": 8734632456267834676,
+    "youtuberImg": "https://pbs.twimg.com/profile_images/856983737426423809/6jebtwP-_400x400.jpg",
+    "youtuberName": "Traversy",
+    "channelName": "Traversy Media.org",
+    "channelDesc": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP",
+    "contentType": "web development and programming tutorials",
+    "createdDate": "2013-10-30",
+    "subscriber": "1.64M",
+    "monthlyIncome": 4565
+  },
+  {
+    "id": 45662562454546677,
+    "youtuberImg": "https://pbs.twimg.com/profile_images/1237741639193571328/LryLEBqW_400x400.jpg",
+    "youtuberName": "Pinominal Munna",
+    "channelName": "Coding with me",
+    "channelDesc": "Practical tips for the beginner web developer.",
+    "contentType": "Web development",
+    "createdDate": "2017-11-8",
+    "subscriber": "285K",
+    "monthlyIncome": 6650
   }
 ]

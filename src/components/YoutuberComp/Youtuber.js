@@ -16,7 +16,7 @@ const Youtuber = (props) => {
   } = props.youtuber;
   return (
     <div className="col">
-      <div className="card h-100">
+      <div className="card h-100 border-bottom border-success">
         <img
           src={youtuberImg}
           className="card-img-top img-card-circle mx-auto my-2"
@@ -43,7 +43,7 @@ const Youtuber = (props) => {
             </li>
           </ol>
         </div>
-        <div className="card-footer text-center">
+        <div className="card-footer text-center bg-info">
           <button
             className="btn btn-success"
             onClick={() => props.handleAddToCart(props.youtuber)}
